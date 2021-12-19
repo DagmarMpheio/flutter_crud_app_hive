@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 "# flutter_crud_app_hive" 
 
 #Resultado
-![Screenshot](Screenshot_20211219-231541.png)
-![Screenshot](Screenshot_20211219-231550.png)
-![Screenshot](Screenshot_20211219-231616.png)
+![Screenshot](img/Screenshot_20211219-231541.png)
+![Screenshot](img/Screenshot_20211219-231550.png)
+![Screenshot](img/Screenshot_20211219-231616.png)
