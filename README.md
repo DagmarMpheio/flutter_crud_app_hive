@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 "# flutter_crud_app_hive" 
 
 #Resultado
-![Screenshot](img/Screenshot_20211219-231541.png)
-![Screenshot](img/Screenshot_20211219-231550.png)
-![Screenshot](img/Screenshot_20211219-231616.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![Tela Inicial](https://github.com/DagmarMpheio/flutter_crud_app_hive/blob/main/img/Screenshot_20211219-231541.jpg?raw=true)
+![Tela de Cadastro](https://github.com/DagmarMpheio/flutter_crud_app_hive/blob/main/img/Screenshot_20211219-231550.jpg?raw=true)
+![Tela de Edição](https://github.com/DagmarMpheio/flutter_crud_app_hive/blob/main/img/Screenshot_20211219-231616.jpg?raw=true)
+
